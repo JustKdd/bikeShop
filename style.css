@@ -89,7 +89,7 @@ button:hover {
 
 .photoAndInfo img:hover {
     transform: translateX(20px);
-   
+
 }
 
 h1 {
@@ -107,10 +107,12 @@ h1 {
     max-width: 60%;
     line-height: 1.6;
 }
-.news-item{
+
+.news-item {
     border: #006e99;
     border-style: solid;
 }
+
 #news {
     padding-top: 50px;
 }
@@ -308,14 +310,18 @@ footer {
     max-width: 800px;
     margin: 0 auto;
 }
-.partner-logos{
+
+.partner-logos {
     display: flexbox;
     justify-content: center;
     justify-self: center;
 }
-.partner-logos img{
-    width: 200px;height: 150px;
+
+.partner-logos img {
+    width: 200px;
+    height: 150px;
 }
+
 .aboutUs li {
     margin-top: 2%;
 }
